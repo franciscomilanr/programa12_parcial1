@@ -1,7 +1,7 @@
 # programa12_parcial1
 
 <li><b>Autor:</b> Franciscomilan</li>
- <li><b>Fecha:</b> 	 </li>
+ <li><b>Fecha:</b> 17/02/2022 </li>
  <li><b>Escuela:</b> Universidad uvm</li>
  <li><b>Materia:</b> Programacion estructurada</li>
  <li><b>Profesor:</b> Armando Cruz</li>
