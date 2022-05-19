@@ -15,6 +15,7 @@
  	<li>Variables flotante </li>
   <li>Variables entero </li>
   <li>Uso de ciclo while </li>
+	<li>Uso de contador </li>
  </ul>
 <br>
  <li> <b> Objetivo: </b> Crear un programa en C que se le ingresen varios numeros y calcula la suma.</li>
