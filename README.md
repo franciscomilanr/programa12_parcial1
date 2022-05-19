@@ -19,4 +19,4 @@
 <br>
  <li> <b> Objetivo: </b> Crear un programa en C que se le ingresen varios numeros y calcula la suma.</li>
  <br>
- <li><b> Breve descripción: </b>Programa 13 en C que pide numeros y calcula su suma para la materia de programacion estructurada.	  </li>
+ <li><b> Breve descripción: </b>Programa 12 en C que pide numeros y calcula su suma para la materia de programacion estructurada.	  </li>
